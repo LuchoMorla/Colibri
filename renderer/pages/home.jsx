@@ -48,7 +48,7 @@ const response = await openai.listEngines(); */
             </section>
             <section class="main-buttons">
                 <div><button id="botonBucar" onClick={() => escucharEventoClick()}>Buscar con Colibri</button></div>
-                <div><button>I am Feeling lucky and alright</button></div>
+                <div><button>I am Feeling lucky and alright.</button></div>
             </section>
         </div>
         <Image src="https://www.aynimar.com/_next/static/media/logo-Aynimar.c247031e.svg" alt="logo Aynimar developers" width={50} height={50}/>
